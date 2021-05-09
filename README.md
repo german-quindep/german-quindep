@@ -1,8 +1,6 @@
 - 👋 Hola soy German Quinde
 - 👀 Me interesa mucho aprender el desarrollo web y movil de varios lenguajes
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Estoy aprendiendo el desarrollo web y sus tecnologias
 
 <!---
 german-quindep/german-quindep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
